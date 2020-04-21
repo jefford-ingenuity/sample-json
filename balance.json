@@ -1,0 +1,191 @@
+{
+    "deposits": [
+        {
+            "charge_type": "Deposit- Bill Deposits SA",
+            "code": "D-BILL",
+            "outstanding_balance": "1,250"
+        },
+        {
+            "charge_type": "Deposits - KVA Capacity Advance Deposit SA",
+            "code": "D-KVA",
+            "outstanding_balance": "1,250"
+        },
+        {
+            "charge_type": "Deposits - Special Labor Advance Deposit SA",
+            "code": "D-LABR",
+            "outstanding_balance": "1,250"
+        },
+        {
+            "charge_type": "Deposits - Lines and Poles Special Advance Deposit SA",
+            "code": "D-LIPO",
+            "outstanding_balance": "1,250"
+        },
+        {
+            "charge_type": "Deposits - Other Deposits",
+            "code": "D-OTHDEP",
+            "outstanding_balance": "1,250"
+        },
+        {
+            "charge_type": "Deposits - Special Old Accounts SA",
+            "code": "D-SCPL",
+            "outstanding_balance": "1,250"
+        },
+        {
+            "charge_type": "Deposits - Transformer Special Advance Deposit SA",
+            "code": "D-XFMR",
+            "outstanding_balance": "1,250"
+        }
+    ],
+
+    "electrics": [
+        {
+            "charge_type": "Electric - Large Industrial",
+            "code": "E-IND-L",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Large Industrial - TOU",
+            "code": "E-IND-LT",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Small Industrial",
+            "code": "E-IND-S",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Small Industrial - TOU",
+            "code": "E-IND-ST",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Large Commercial",
+            "code": "E-NRS-L",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Large Non-Residential - TOU",
+            "code": "E-NRS-LT",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Small Commercial",
+            "code": "E-NRS-S",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Small Non-Residential - TOU",
+            "code": "E-NRS-ST",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Pilferage",
+            "code": "E-PFR",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Residential",
+            "code": "E-RES",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Residential - TOU",
+            "code": "E-RES-T",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Unmetered Streetlights",
+            "code": "E-UMR",
+            "outstanding_balance": "5,250"
+        },
+        {
+            "charge_type": "Electric - Net Metering",
+            "code": "NET-E",
+            "outstanding_balance": "5,250"
+        }
+    ],
+
+    "miscs": [
+        {
+            "charge_type": "Misc - Billable Charge",
+            "code": "M-BCHARG",
+            "outstanding_balance": "3,250"
+        },
+        {
+            "charge_type": "Misc - CIS Billable Charge",
+            "code": "M-CBCHG",
+            "outstanding_balance": "3,250"
+        },
+        {
+            "charge_type": "Misc - Non CIS Billable Charge",
+            "code": "M-NCBCHG",
+            "outstanding_balance": "3,250"
+        },
+        {
+            "charge_type": "Misc - Payments",
+            "code": "M-NCISP",
+            "outstanding_balance": "3,250"
+        },
+        {
+            "charge_type": "Misc - Other Charges",
+            "code": "M-OTHCHR",
+            "outstanding_balance": "3,250"
+        },
+        {
+            "charge_type": "Misc - Pilferage CIS Billable Charge",
+            "code": "M-PCBCHG",
+            "outstanding_balance": "3,250"
+        },
+        {
+            "charge_type": "Misc - Write Off Service Agreement",
+            "code": "M-WOALL",
+            "outstanding_balance": "3,250"
+        }
+    ],
+
+    "pas": [
+        {
+            "charge_type": "PA - Payment Arrangement SA for Backbilling",
+            "code": "PA-BKBIL",
+            "outstanding_balance": "2,250"
+        },
+        {
+            "charge_type": "PA- Payment Arrangement SA for Miscellaneous",
+            "code": "PA-MISC",
+            "outstanding_balance": "2,250"
+        },
+        {
+            "charge_type": "PA - Payment Arrangement SA for Arrears",
+            "code": "PA-NORM",
+            "outstanding_balance": "2,250"
+        },
+        {
+            "charge_type": "PA - Payment Arrangement SA for Notes Receivable",
+            "code": "PA-NR",
+            "outstanding_balance": "2,250"
+        },
+        {
+            "charge_type": "PA - Payment Arrangement SA for Pilferage",
+            "code": "PA-PILFR",
+            "outstanding_balance": "2,250"
+        }
+    ],
+
+    "rcoas": [
+        {
+            "charge_type": "RCOA-LRES",
+            "code": "RCOALRES",
+            "outstanding_balance": "6,250"
+        },
+        {
+            "charge_type": "RCOA DU",
+            "code": "RCOA_DU",
+            "outstanding_balance": "6,250"
+        },
+        {
+            "charge_type": "RCOA Peak Off Peak Rates",
+            "code": "RCOA_POP",
+            "outstanding_balance": "6,250"
+        }
+    ]
+}
